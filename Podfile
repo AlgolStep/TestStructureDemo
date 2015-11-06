@@ -1,0 +1,7 @@
+platform:ios,'7.0'
+pod 'SDWebImage'
+pod 'SVProgressHUD'
+pod 'MJRefresh'
+pod 'ZBarSDK'
+pod 'IQKeyboardManager'
+pod 'AFNetworking'
